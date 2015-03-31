@@ -1,4 +1,4 @@
-# NASA Jet Propulsion Laboratory Team Space Design Competition 2015 🚀
+# NASA Jet Propulsion Laboratory Team Space Design Competition 2015
 
 ## Contest Information
 https://wiki.cites.illinois.edu/wiki/display/jplteam/2015+NASA+Jet+Propulsion+Laboratory+Team+Space+Design+Competition
